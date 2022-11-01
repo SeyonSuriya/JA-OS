@@ -1,4 +1,6 @@
-	global loader                   ; the entry symbol for ELF
+
+
+		global loader                   ; the entry symbol for E
 
     MAGIC_NUMBER equ 0x1BADB002     ; define the magic number constant
     FLAGS        equ 0x0            ; multiboot flags
